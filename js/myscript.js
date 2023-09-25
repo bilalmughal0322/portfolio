@@ -1,5 +1,5 @@
 alert("Wellcome To My Portfolio");
-prompy("Enter Your Name");
+prompt("Enter Your Name");
 let navbar = document.getElementById('nav_links');
 
 function showMenu() {
